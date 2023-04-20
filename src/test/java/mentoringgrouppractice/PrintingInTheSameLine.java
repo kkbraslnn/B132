@@ -1,8 +1,6 @@
 package mentoringgrouppractice;
 
-import java.util.Scanner;
-
-public class Q1 {
+public class PrintingInTheSameLine {
 
         public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package practice;
 
-public class Q11_TernaryNumPositiveOrNegative {
+public class Q11_Ternary_NumPositiveOrNegative {
     public static void main(String[] args) {
 
         //Type code to check if a number is positive or not

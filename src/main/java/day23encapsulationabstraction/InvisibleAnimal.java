@@ -1,2 +1,5 @@
-package day23encapsulationabstraction;public class InvisibleAnimal {
+package day23encapsulationabstraction;
+
+public abstract class InvisibleAnimal extends Animal {
+
 }

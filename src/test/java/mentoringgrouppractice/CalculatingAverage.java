@@ -1,6 +1,6 @@
 package mentoringgrouppractice;
 
-public class Q2 {
+public class CalculatingAverage {
 
         //Calculate the average of these numbers.
         double num1 = 23.4;

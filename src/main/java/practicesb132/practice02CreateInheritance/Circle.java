@@ -1,2 +1,4 @@
-package practicesb132.practice02CreateInheritance;public class Circle {
+package practicesb132.practice02CreateInheritance;
+
+public class Circle {
 }

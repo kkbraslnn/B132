@@ -4,14 +4,230 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e962c2c-bc0c-4e74-9da9-4d3c8fa626e6" name="Changes" comment="" />
+    <list default="true" id="5e962c2c-bc0c-4e74-9da9-4d3c8fa626e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day01datatypesvariables/DataTypes01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day01datatypesvariables/DataTypes01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day01datatypesvariables/DataTypes02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day01datatypesvariables/DataTypes02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day02typecasting_scanner/WrapperClass01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day02typecasting_scanner/WrapperClass01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day03_typecasting_scanner/TypeCasting01_DT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day03_typecasting_scanner/TypeCasting01_DT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day03_typecasting_scanner/WrapperClass01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day03_typecasting_scanner/WrapperClass01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/NonPrimitives01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/NonPrimitives01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/Scanner01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/Scanner01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/Scanner02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/Scanner02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/Scanner03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/Scanner03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/Scanner04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/Scanner04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/Scanner05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/Scanner05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/Scanner06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day03nonprimitivesscannerclass/Scanner06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day04stringmanipulations/InterviewQuestion01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day04stringmanipulations/InterviewQuestion01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day04stringmanipulations/Scanner01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day04stringmanipulations/Scanner01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day04stringmanipulations/StringManipulations01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day04stringmanipulations/StringManipulations01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day04stringmanipulations/StringManipulations02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day04stringmanipulations/StringManipulations02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day05stringmanipulations/StringManipulations01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day05stringmanipulations/StringManipulations01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day05stringmanipulations/StringManipulations02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day05stringmanipulations/StringManipulations02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day06stringmanipulationsifstatement/IfStatement01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day06stringmanipulationsifstatement/IfStatement01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day06stringmanipulationsifstatement/StringManipulation01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day06stringmanipulationsifstatement/StringManipulation01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day06stringmanipulationsifstatement/StringManipulation02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day06stringmanipulationsifstatement/StringManipulation02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day06stringmanipulationsifstatement/StringManipulation03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day06stringmanipulationsifstatement/StringManipulation03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day07ifstatementternarystatement/IfStatement01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07ifstatementternarystatement/IfStatement01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day07ifstatementternarystatement/IfStatement02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07ifstatementternarystatement/IfStatement02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day07ifstatementternarystatement/NestedIfStatement01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07ifstatementternarystatement/NestedIfStatement01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day07ifstatementternarystatement/Ternary01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07ifstatementternarystatement/Ternary01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day08ternaryswitch/Loops01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day08ternaryswitch/Loops01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day08ternaryswitch/NestedTernary01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day08ternaryswitch/NestedTernary01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day08ternaryswitch/Switch01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day08ternaryswitch/Switch01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day08ternaryswitch/Switch02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day08ternaryswitch/Switch02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day08ternaryswitch/Switch03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day08ternaryswitch/Switch03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day08ternaryswitch/Switch04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day08ternaryswitch/Switch04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day09forloops/ForLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day09forloops/ForLoop01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day09forloops/ForLoop02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day09forloops/ForLoop02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day10forloop/ForLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10forloop/ForLoop01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day10forloop/ForLoop02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10forloop/ForLoop02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day10forloop/NestedForLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10forloop/NestedForLoop01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day11nestedforloopwhileloopdowhileloop/DoWhile02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day11nestedforloopwhileloopdowhileloop/DoWhile02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day11nestedforloopwhileloopdowhileloop/DoWhileLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day11nestedforloopwhileloopdowhileloop/DoWhileLoop01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day11nestedforloopwhileloopdowhileloop/NestedForLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day11nestedforloopwhileloopdowhileloop/NestedForLoop01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day11nestedforloopwhileloopdowhileloop/WhileLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day11nestedforloopwhileloopdowhileloop/WhileLoop01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day12_arrays_foreachloop/Arrays01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12_arrays_foreachloop/Arrays01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day12_arrays_foreachloop/Arrays02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12_arrays_foreachloop/Arrays02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day12_arrays_foreachloop/Arrays03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12_arrays_foreachloop/Arrays03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day13arraysmultidimensionalarrays/Arrays01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day13arraysmultidimensionalarrays/Arrays01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day13arraysmultidimensionalarrays/Arrays02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day13arraysmultidimensionalarrays/Arrays02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day13arraysmultidimensionalarrays/MultiDimensionalArrays01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day13arraysmultidimensionalarrays/MultiDimensionalArrays01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day14multidimensionalarraysarraylists/ArrayLists01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day14multidimensionalarraysarraylists/ArrayLists01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day14multidimensionalarraysarraylists/ArrayLists02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day14multidimensionalarraysarraylists/ArrayLists02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day14multidimensionalarraysarraylists/Md01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day14multidimensionalarraysarraylists/Md01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day14multidimensionalarraysarraylists/Md02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day14multidimensionalarraysarraylists/Md02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day14multidimensionalarraysarraylists/Md03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day14multidimensionalarraysarraylists/Md03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day15arraylists/ArrayLists01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day15arraylists/ArrayLists01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day15arraylists/ArrayLists02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day15arraylists/ArrayLists02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day15arraylists/ArrayLists03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day15arraylists/ArrayLists03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16arraylists/ArrayLists01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day16arraylists/ArrayLists01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16arraylists/ArrayLists02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day16arraylists/ArrayLists02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16arraylists/ArrayLists03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day16arraylists/ArrayLists03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16arraylists/PassByValuePassByReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day16arraylists/PassByValuePassByReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day17methodoverloadingdatetimeclasses/DateTime01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day17methodoverloadingdatetimeclasses/DateTime01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day17methodoverloadingdatetimeclasses/MethodCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day17methodoverloadingdatetimeclasses/MethodCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day17methodoverloadingdatetimeclasses/MethodOverloading01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day17methodoverloadingdatetimeclasses/MethodOverloading01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18varargsstringbuilderstringbuffer/StringBuilder01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day18varargsstringbuilderstringbuffer/StringBuilder01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18varargsstringbuilderstringbuffer/StringBuilder02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day18varargsstringbuilderstringbuffer/StringBuilder02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18varargsstringbuilderstringbuffer/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day18varargsstringbuilderstringbuffer/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18varargsstringbuilderstringbuffer/TeacherRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day18varargsstringbuilderstringbuffer/TeacherRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18varargsstringbuilderstringbuffer/Varargs01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day18varargsstringbuilderstringbuffer/Varargs01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day19constructorsaccessmodifiersstatic/Honda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day19constructorsaccessmodifiersstatic/Honda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day19constructorsaccessmodifiersstatic/HondaRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day19constructorsaccessmodifiersstatic/HondaRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day19constructorsaccessmodifiersstatic/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day19constructorsaccessmodifiersstatic/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day19constructorsaccessmodifiersstatic/StudentsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day19constructorsaccessmodifiersstatic/StudentsRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day19constructorsaccessmodifiersstatic/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day19constructorsaccessmodifiersstatic/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day19constructorsaccessmodifiersstatic/TeacherRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day19constructorsaccessmodifiersstatic/TeacherRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day20inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day20inheritance/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day20inheritance/AnimalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day20inheritance/AnimalRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day20inheritance/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day20inheritance/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day20inheritance/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day20inheritance/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day20inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day20inheritance/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Accord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Accord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/AnimalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/AnimalRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Civic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Civic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Honda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Honda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/VehicleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day21inheritanceoverriding/VehicleRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/AnimalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/AnimalRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/StudentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day22overridingencapsulation/StudentRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/AnimalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/AnimalRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/InvisibleAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/InvisibleAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/StudentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day23encapsulationabstraction/StudentRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day24interface/Ac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day24interface/Ac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day24interface/CarRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day24interface/CarRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day24interface/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day24interface/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day24interface/Honda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day24interface/Honda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day24interface/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day24interface/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day25collections/LinkedList01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day25collections/LinkedList01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day25collections/Sets01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day25collections/Sets01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day26collections/Iterators01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day26collections/Iterators01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day26collections/Queue01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day26collections/Queue01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day26collections/Sets01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day26collections/Sets01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day26collections/UsStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day26collections/UsStates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day27enumsexceptions/EnumRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day27enumsexceptions/EnumRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day27enumsexceptions/UsStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day27enumsexceptions/UsStates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day28exceptions/E01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day28exceptions/E01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day28exceptions/E02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day28exceptions/E02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day28exceptions/E03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day28exceptions/E03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day28exceptions/E04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day28exceptions/E04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day29exceptionsmaps/CustomExceptionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day29exceptionsmaps/CustomExceptionRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day29exceptionsmaps/E01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day29exceptionsmaps/E01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day29exceptionsmaps/HashMap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day29exceptionsmaps/HashMap01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day29exceptionsmaps/IllegalAgeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day29exceptionsmaps/IllegalAgeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day29exceptionsmaps/IllegalGradeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day29exceptionsmaps/IllegalGradeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/HashMap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/HashMap01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/HashMap02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/HashMap02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/HashMapMechanism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/HashMapMechanism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/HashTable01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/HashTable01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/StaticBlock01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/StaticBlock01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/StaticRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/StaticRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/TreeMap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day30mapsstaticblock/TreeMap01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day31lambda/Lambda01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day31lambda/Lambda01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day32lambda/Lambda01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day32lambda/Lambda01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day32lambda/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day32lambda/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q01_NumberOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q01_NumberOfWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q02_PrintingInTheSameLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q02_PrintingInTheSameLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q03_CalculatingAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q03_CalculatingAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q04_CalculationHypotenus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q04_CalculationHypotenus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q05_PrintingNumOneByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q05_PrintingNumOneByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q06_SpaceCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q06_SpaceCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q07_Modulus_Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q07_Modulus_Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q08_SumOfPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q08_SumOfPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q09_FirstLastChValuesAscii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q09_FirstLastChValuesAscii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q10_ComparisonOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q10_ComparisonOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q11_Ternary_NumPositiveOrNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q11_Ternary_NumPositiveOrNegative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q12_Switch_VowelOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q12_Switch_VowelOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q13_Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q13_Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q14_SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q14_SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q15_FibonacciNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q15_FibonacciNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q16_Seasons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q16_Seasons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q17_IntDivisiblebyNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q17_IntDivisiblebyNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q18_Array_SpecificElementInOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q18_Array_SpecificElementInOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q19_NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q19_NestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q20_ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q20_ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q21_MiddleElementIntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q21_MiddleElementIntArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q22_ListPairSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q22_ListPairSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q23_FoorLoop_CharBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q23_FoorLoop_CharBetween.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q24_DoWhile_NumberGuessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q24_DoWhile_NumberGuessGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q25_Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q25_Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q25_Mathematics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q25_Mathematics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q25_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q25_Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q26_BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q26_BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q26_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q26_Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q27_ForLoop_CharsBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q27_ForLoop_CharsBetween.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q28_NestedForLoop_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q28_NestedForLoop_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q29_WhileLoop_RockPaperScissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q29_WhileLoop_RockPaperScissors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q30_Recursive_Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q30_Recursive_Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q31_Arrays_Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q31_Arrays_Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q32_Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q32_Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q32_NestedForLoop_Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q32_NestedForLoop_Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q32_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q32_Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/Q32_Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Q32_Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/MethodCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/MethodCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/Practice01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/Practice01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/Q01Concatination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/Q01Concatination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/Q02PrintingInTheSameLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/Q02PrintingInTheSameLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/Q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/Q04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/Q05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/Q05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/Q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/Q06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/Q_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/Q_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/practice02CreateInheritance/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/practice02CreateInheritance/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/practice02CreateInheritance/Deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/practice02CreateInheritance/Deneme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicesb132/practice02CreateInheritance/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicesb132/practice02CreateInheritance/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kurs/konuanlatimi/A25_StaticKeyword/StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/kurs/konuanlatimi/A25_StaticKeyword/StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mentoringgrouppractice/CalculatingAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mentoringgrouppractice/CalculatingAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mentoringgrouppractice/CalculationHypotenus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mentoringgrouppractice/CalculationHypotenus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mentoringgrouppractice/PrintingInTheSameLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mentoringgrouppractice/PrintingInTheSameLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mentoringgrouppractice/PrintingNumOneByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mentoringgrouppractice/PrintingNumOneByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mypractice/Practice01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mypractice/Practice01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mypractice/Practice02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mypractice/Practice02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mypractice/Practice03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mypractice/Practice03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mypractice/QuestionBankStringManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mypractice/QuestionBankStringManipulations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mypractice/QuestionBankTypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mypractice/QuestionBankTypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mypractice/QuestionBankVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mypractice/QuestionBankVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mypractice/QuestionBankWrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mypractice/QuestionBankWrapperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mypractice/StringManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mypractice/StringManipulations.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JXQthbdmKFL92TelAaayNjWCYD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,12 +235,98 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day24interface" />
+      <recent name="practice" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lambda01">
+    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicesb132.practice02CreateInheritance.Deneme" />
+      <module name="Batch132" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicesb132.practice02CreateInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambda01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32lambda.Lambda01" />
+      <module name="Batch132" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day32lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q27_ForLoop_CharsBetween" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Q27_ForLoop_CharsBetween" />
+      <module name="Batch132" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionBankStringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypractice.QuestionBankStringManipulations" />
+      <module name="Batch132" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionBankVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypractice.QuestionBankVariables" />
+      <module name="Batch132" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lambda01" />
+        <item itemvalue="Application.Deneme" />
+        <item itemvalue="Application.Q27_ForLoop_CharsBetween" />
+        <item itemvalue="Application.QuestionBankStringManipulations" />
+        <item itemvalue="Application.QuestionBankVariables" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +337,16 @@
       <updated>1672222165493</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

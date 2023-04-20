@@ -1,9 +1,8 @@
 package mypractice;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class QuestionBank01 {
+public class QuestionBankVariables {
     public static void main(String[] args) {
 
         //Create double variables for the prices of any 3 items.
@@ -71,7 +70,7 @@ public class QuestionBank01 {
         n2=n1-n2;
         n1=n1-n2;
         System.out.println("After swapping :" + n1+ "-" +n2);
-        
+
 
 
 

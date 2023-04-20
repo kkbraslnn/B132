@@ -1,2 +1,4 @@
-package day24interface;public interface Move {
+package day24interface;
+
+public interface Move {
 }
